@@ -1,6 +1,6 @@
 # Anomaly Detection for Ryu SDN Controller
 
-![Untitled](https://user-images.githubusercontent.com/84791557/128701358-cdd2805d-085f-4e57-b9e4-bf97cd52d787.png)
+![Topology](https://user-images.githubusercontent.com/84791557/132374979-7656ab1b-baab-4ead-ba1f-72405f73b5a7.png)
 
 ## Tools
 - Mininet- Network Topology Simulator, available via Python API: http://mininet.org/download/
