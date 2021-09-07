@@ -1,0 +1,58 @@
+2021-06-12 15:03:44 - Pcap is listening...
+2021-06-12 15:04:03 - Pcap stop listening
+2021-06-12 15:04:03 - path:D:\IDM Download\Compressed\CICFlowMeter-master\CICFlowMeter-master\build\distributions\CICFlowMeter-4.0\CICFlowMeter-4.0\bin\data\daily\2021-06-12_Flow.csv
+2021-06-12 15:05:09 - Pcap is listening...
+2021-06-12 15:05:42 - Pcap stop listening
+2021-06-12 15:05:42 - path:D:\IDM Download\Compressed\CICFlowMeter-master\CICFlowMeter-master\build\distributions\CICFlowMeter-4.0\CICFlowMeter-4.0\bin\data\daily\2021-06-12_Flow.csv
+2021-06-12 15:06:47 - Error while opening file for capture: D:\IDM Download\Compressed\thcs_vô tuy?n\Log Wireshark\GMSC-Ha Noi\GMSC-Ha Noi\GSHN01H-Giap Bat\log\wireshark\1.1.1.1.2 _ 3.1.pcap: No such file or directory
+2021-06-12 15:10:41 - Error while opening file for capture: D:\IDM Download\Compressed\thcs_vô tuy?n\Log Wireshark\GMSC-Ha Noi\GMSC-Ha Noi\GSHN01H-Giap Bat\log\wireshark\1.1.1.1.2 _ 3.1.pcap: No such file or directory
+2021-06-12 15:10:48 - Please select pcap!
+2021-06-12 15:10:50 - Please select pcap!
+2021-06-12 15:11:24 - Error while opening file for capture: D:\IDM Download\Compressed\thcs_vô tuy?n\Log Wireshark\GMSC-Ha Noi\GMSC-Ha Noi\GSHN01H-Giap Bat\log\wireshark\1.1.1.1.2 _ 3.1.pcap: No such file or directory
+2021-06-12 15:11:55 - Pcap is listening...
+2021-06-12 15:13:19 - Pcap stop listening
+2021-06-12 15:13:19 - path:D:\IDM Download\Compressed\CICFlowMeter-master\CICFlowMeter-master\build\distributions\CICFlowMeter-4.0\CICFlowMeter-4.0\bin\data\daily\2021-06-12_Flow.csv
+2021-06-12 15:14:06 - Pcap is listening...
+2021-06-12 15:14:21 - Pcap stop listening
+2021-06-12 15:14:21 - path:D:\IDM Download\Compressed\CICFlowMeter-master\CICFlowMeter-master\build\distributions\CICFlowMeter-4.0\CICFlowMeter-4.0\bin\data\daily\2021-06-12_Flow.csv
+2021-06-12 15:14:31 - Pcap is listening...
+2021-06-12 15:15:04 - Pcap stop listening
+2021-06-12 15:15:04 - path:D:\IDM Download\Compressed\CICFlowMeter-master\CICFlowMeter-master\build\distributions\CICFlowMeter-4.0\CICFlowMeter-4.0\bin\data\daily\2021-06-12_Flow.csv
+2021-06-12 16:16:43 - Error while opening file for capture: bad dump file format
+2021-06-12 16:17:35 - Error while opening file for capture: bad dump file format
+2021-06-12 16:18:23 - Error while opening file for capture: bad dump file format
+2021-06-12 16:22:08 - Pcap is listening...
+2021-06-12 16:26:06 - Pcap stop listening
+2021-06-12 16:26:06 - path:D:\IDM Download\Compressed\CICFlowMeter-4.0\CICFlowMeter-4.0\bin\data\daily\2021-06-12_Flow.csv
+2021-06-12 17:02:49 - Pcap is listening...
+2021-06-12 17:06:09 - Pcap stop listening
+2021-06-12 17:06:09 - path:D:\IDM Download\Compressed\CICFlowMeter-4.0\CICFlowMeter-4.0\bin\data\daily\2021-06-12_Flow.csv
+2021-06-12 17:22:18 - Pcap is listening...
+2021-07-08 16:30:08 - You select: InputPCAP
+2021-07-08 16:30:08 - Out folder: OutputCSV
+2021-07-08 16:31:53 - You select: InputPCAP
+2021-07-08 16:31:53 - Out folder: OutputCSV
+2021-07-08 17:20:58 - You select: InputPCAP
+2021-07-08 17:20:58 - Out folder: OutputCSV
+2021-07-08 17:24:58 - You select: InputPCAP
+2021-07-08 17:24:58 - Out folder: OutputCSV
+2021-07-08 17:32:31 - You select: InputPCAP
+2021-07-08 17:32:31 - Out folder: OutputCSV
+2021-07-08 17:32:51 - You select: InputPCAP
+2021-07-08 17:32:51 - Out folder: OutputCSV
+2021-07-08 17:34:58 - You select: PCAP_to_CSV\InputPCAP
+2021-07-08 17:34:58 - Out folder: PCAP_to_CSV\OutputCSV
+2021-07-08 17:42:18 - You select: PCAP_to_CSV\InputPCAP
+2021-07-08 17:42:18 - Out folder: PCAP_to_CSV\OutputCSV
+2021-07-08 18:34:28 - You select: 1.1.1.1.1.pcap
+2021-07-08 18:34:28 - Out folder: PCAP_to_CSV/OutputCSV
+2021-07-08 18:34:28 - CICFlowMeter received 1 pcap file
+2021-07-12 16:44:28 - You select: 1.1.1.1.1.pcap
+2021-07-12 16:44:28 - Out folder: /mnt/e/SDN_ML_Anaconda/TopoPipeline/CICFlowMeter-4.0/bin/
+2021-07-12 16:44:29 - CICFlowMeter received 1 pcap file
+2021-07-12 17:28:11 - You select: 1.1.1.1.1.pcap
+2021-07-12 17:28:11 - Out folder: /mnt/e/SDN_ML_Anaconda/
+2021-07-12 17:28:11 - CICFlowMeter received 1 pcap file
+2021-07-12 17:33:32 - You select: 1.1.1.1.1.pcap
+2021-07-12 17:33:32 - Out folder: /mnt/e/SDN_ML_Anaconda/
+2021-07-12 17:33:32 - CICFlowMeter received 1 pcap file
