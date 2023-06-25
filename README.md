@@ -32,6 +32,7 @@ sudo ./CICTrigger.sh
 - If using the first option, in the mininet server, run Wireshark to capture the interfaces that need to be monitored, In the mininet server, set Wireshark to run continuously at arbitrary intervals and save with "Flow.pcap".
 
 ## How it works
+**Warning**: This is a bad pipeline, it should be optimized with a message queuing system like Kafka
 1. The pcap files will be saved with the format "Flow_{index}_{year}{month}{date}{hour}{minute}{second}.pcap"
 2. The inotify tool in CICTrigger.sh will detect those PCAP files and automatically call the CICFlowMeter tool to convert those files into CSV Files with predefined features
 3. The shared folder is used to send those CSV files directly to a repository in the Controller's server
